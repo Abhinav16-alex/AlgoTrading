@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+creds.json
+__pycache__/
+*.pyc
+
 # C extensions
 *.so
 
